@@ -1,0 +1,13 @@
+body {
+  background-color: lightblue;
+  color: violet;
+  font-family: serif;
+  font-size: 40px;
+  text-align: justify;
+}
+input, button {
+  font-size: 20px;
+}
+#output_text {
+  padding: 30px;
+}
